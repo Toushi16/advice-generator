@@ -1,0 +1,13 @@
+.Button {
+    padding: 10px;
+    background-color: gainsboro;
+    border: 1px solid gray;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+.Button:active {
+    box-shadow: inset 1px 0.5px 0.5px 0.1px;
+}
